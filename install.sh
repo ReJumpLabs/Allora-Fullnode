@@ -42,7 +42,7 @@ git clone -b main https://github.com/allora-network/allora-chain.git
 
 # Navigate to the cloned directory
 cd allora-chain
-git checkout v0.5.0
+git checkout v0.6.0
 
 # Replace requirements.txt with docker-compose.yaml
 echo -e "${LIGHT_BLUE}Replace with the new docker-compose.yaml...${RESET}"
